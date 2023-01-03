@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhisek Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://as2.ftcdn.net/v2/jpg/05/56/30/49/1000_F_556304961_SJWAbeyiCmBekcbBs87GkJtW0nha4rQy.jpg" alt="">
+<img align="right" width="400" src="https://as2.ftcdn.net/v2/jpg/05/56/30/49/1000_F_556304961_SJWAbeyiCmBekcbBs87GkJtW0nha4rQy.jpg" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek753&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek753" /> </p>
 
