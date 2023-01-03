@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhisek Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://as2.ftcdn.net/v2/jpg/05/56/30/49/1000_F_556304961_SJWAbeyiCmBekcbBs87GkJtW0nha4rQy.jpg" alt="coding">
+<img align="right" width="400" alt="coding" src="https://as1.ftcdn.net/v2/jpg/05/56/30/04/1000_F_556300486_IVK0Go6aFBiKssE6t2VvL6xNjjF7WD8P.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek753&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek753" /> </p>
 
@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://codepen.io/@abhisek753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@abhisek753" height="30" width="40" /></a>
 <a href="https://twitter.com/@abhisek753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhisek753" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhisek kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisek kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/abhisek-kumar-582308240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/abhisek-kumar-582308240" height="30" width="40" /></a>
 <a href="https://codesandbox.com/abhisek753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhisek753" height="30" width="40" /></a>
 <a href="https://fb.com/abhisek kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhisek kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/abhisek753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhisek753" height="30" width="40" /></a>
