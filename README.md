@@ -10,9 +10,12 @@
 
 🚀 I have learned couple of CSS libraries like Chakra UI, Bootstrap & styled-components.
 
-📧 Email - kumarabhisek753@gmail.com
 
-💼 Portfolio - https://abhisek753.github.io/
+📧 Email - kumarabhisek753@gmail.com
+<br/>
+<br/>
+<a href="https://github.com/Abhisek753"><img src="https://camo.githubusercontent.com/eed4766a8cd54afccc2c6adfde566a3bbfc1860e8c36abe7f1ded64bc15696c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"></a>
+<a href="https://abhisek753.github.io/"><img src="https://camo.githubusercontent.com/a45212f10bff252615c77d4afc628cddcd286a6a8230828a5921b02bc7444ed0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d436f6465636f76266c6f676f436f6c6f723d7768697465" alt="Portfolio"></a>
 
 
 ## 🌐 Socials
@@ -39,9 +42,19 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abhisek753&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4)
+  
+<p> <img src="https://komarev.com/ghpvc/?username=Abhisek753&label=Profile%20views&color=0e75b6&style=flat" alt="abhisekkumar" /> </p>
+
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Abhisek753&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abhisek753&theme=react&hide_border=false)<br/>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek753&" alt="abhisek753" /></p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek753&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+   
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisek753&show_icons=true&locale=en&layout=compact" alt="abhisek753" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisek753&show_icons=true&locale=en" alt="abhisek753" /></p>
+
+
+
