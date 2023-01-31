@@ -46,7 +46,17 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhisek753&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4)
   
-<p> <img src="https://komarev.com/ghpvc/?username=Abhisek753&label=Profile%20views&color=0e75b6&style=flat" alt="abhisekkumar" /> </p>
+
+<!----------------------------------- Profile View Section ------------------------------------>
+<p align="left">
+    <a href="https://github.com/Abhisek753">
+        <img src="https://komarev.com/ghpvc/?username=Abhisek753&labell=Profile%20views&color=0e75b6&style=flat" alt="Abhisek Kumar" />
+    </a>
+    <a href="https://github.com/Abhisek753?tab=followers">
+        <img src="https://img.shields.io/github/followers/Abhisek753?label=Followers&style=social" alt="followers-count">
+    </a>
+</p>
+<br>
 
 # 📊 GitHub Stats
 
